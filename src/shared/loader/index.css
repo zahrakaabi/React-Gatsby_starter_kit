@@ -1,0 +1,30 @@
+.loader-wrapper {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.loader {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    border-top: 0.1em solid red;
+    border-right: 0.1em solid red;
+    border-bottom: 0.1em solid red;
+    animation: rotation 2s infinite ease;
+}
+
+.loader-wrapper h1 {
+    color: white;
+    margin-top: 1.5rem;
+    font: 700 1.6rem sans-serif;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+
+    to {
+      transform: rotate(359deg);
+    }
+}

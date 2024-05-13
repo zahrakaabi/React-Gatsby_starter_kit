@@ -1,0 +1,16 @@
+nav {
+    height: 20rem;
+}
+
+.translation-btns {
+    margin-left: 10rem;
+}
+
+button {
+    width: 7rem;
+    height: 7rem;
+    cursor: pointer;
+    color: #222222;
+    border-radius: 1rem;
+    background-color: #ffffff;
+}

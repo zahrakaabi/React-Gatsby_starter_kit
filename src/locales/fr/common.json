@@ -1,0 +1,9 @@
+{
+    "index": {
+        "hero":"Salut hero section"
+    },
+    
+    "navbar": {
+        "header":"Salut navbar"
+    }
+}

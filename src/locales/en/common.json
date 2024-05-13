@@ -1,0 +1,9 @@
+{
+    "index": {
+        "hero":"Hello hero section"
+    },
+
+    "navbar": {
+        "header":"Hello navbar"
+    }
+}
